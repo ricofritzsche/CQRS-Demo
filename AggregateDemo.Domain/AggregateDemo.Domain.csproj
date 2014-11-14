@@ -59,6 +59,7 @@
     <Compile Include="Customer\CreateCustomerCommand.cs" />
     <Compile Include="Customer\CustomerAggregateRoot.cs" />
     <Compile Include="Customer\CustomerAggregateState.cs" />
+    <Compile Include="Customer\EventSubscriber.cs" />
     <Compile Include="Customer\MemberState.cs" />
     <Compile Include="Order\Order.cs" />
     <Compile Include="Order\OrderLine.cs" />

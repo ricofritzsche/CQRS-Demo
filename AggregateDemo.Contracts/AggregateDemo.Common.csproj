@@ -52,6 +52,7 @@
     <Compile Include="ICommandProcessor.cs" />
     <Compile Include="IDomainEvent.cs" />
     <Compile Include="IEventStore.cs" />
+    <Compile Include="IEventSubscriber.cs" />
     <Compile Include="IIdentityMap.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="TransactionLock.cs" />
